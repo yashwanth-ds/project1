@@ -1,0 +1,1 @@
+this project is based on websraping using selenium. TO automate the result search of VTU results webpage,in this project it bypasses the captcha value and fetches the results of each indivisuals of the college .and stores the marks with CGPA into yhe EXCEL# project1
